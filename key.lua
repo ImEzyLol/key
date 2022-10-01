@@ -1,1 +1,1 @@
-KeyInput = "smd"
+local sf_key = "smd"
